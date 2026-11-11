@@ -1,2 +1,15 @@
-# TP_Biodiversite_M1
-An educational project using fictional biodiversity observations
+#BiodiversityPracticalSession- Master1SNV
+##Objective
+Learntopublish,documentandupdate
+ascientificprojectonGitHub.
+##Data
+Theprojectusesfictionalobservations
+ofthreespeciesattwosites.
+##Organisation-data/:observationdata-docs/:practical-sessionreport
+##Authors
+Fullname: Makhloufi Boutheina
+Speciality:Pharmacotoxicology
+Group:01
+##Note
+Thedataarefictionalandintended
+forteachingpurposesonly.
